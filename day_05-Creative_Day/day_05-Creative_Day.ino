@@ -1,3 +1,5 @@
+// a 4th LED will turn on when all 3 switches are turned on
+
 int LED1 = 12;
 int LED2 = 11;
 int LED3 = 10;
